@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "Spring.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.url'"
+  },
+  {
+    "name": "Spring.jpa.properties.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jpa.properties.hibernate.dialect'"
+  },
+  {
+    "name": "Spring.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "Spring.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.password'"
+  },
+  {
+    "name": "Spring.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.username'"
+  }
+]}
